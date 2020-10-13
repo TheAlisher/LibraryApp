@@ -1,0 +1,21 @@
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    
+    <!-- CardBookItem / BookDescriptionFragment-->
+    <style name="BookNameStyle">
+        <item name="android:textColor">@color/Black</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="BookAuthorStyle">
+        <item name="android:textColor">@color/DarkGray</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Library App</string>
+
+    <!--CardBookItem-->
+    <string name="contentDescription_cardBookItem_image_book">Image book</string>
+
+    <!--BookDescriptionFragment-->
+    <string name="contentDescription_bookDescription_image_book">Image book</string>
+
+
+</resources>
